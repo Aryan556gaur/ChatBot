@@ -1,0 +1,5 @@
+python-dotenv
+google-generativeai
+IPython
+streamlit
+streamlit python-socketio eventlet
